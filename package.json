@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-nodejs",
+  "version": "0.0.1",
+  "description": "eslint plugin for core Node.js rules",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geek/eslint-plugin-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/geek/eslint-plugin-nodejs/issues"
+  },
+  "homepage": "https://github.com/geek/eslint-plugin-nodejs#readme"
+}
